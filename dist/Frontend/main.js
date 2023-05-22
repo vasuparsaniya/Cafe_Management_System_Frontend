@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Web Devlopment\AWP_Project\Render\Cafe_Management_System\frontend\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! D:\Web Devlopment\AWP_Project\Render1\Cafe_Management_System\frontend\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -279,7 +279,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
 const environment = {
     production: false,
-    apiUrl: 'https://cafe-management-system.onrender.com'
+    apiUrl: 'https://cafe-management-system-backend.onrender.com'
+    // apiUrl: 'https://cafe-management-system.onrender.com'
     // apiUrl: 'https://cafe-management-system-backend.onrender.com'
 };
 
